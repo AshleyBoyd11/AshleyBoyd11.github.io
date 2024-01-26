@@ -1,0 +1,16 @@
+.header{
+    width: 100%;
+    height: 160px;
+    background-color: black;
+    display: flex;
+}
+.header-title{
+    color: white;
+    font-weight: bold;
+    font-size: 55px;
+}
+
+.menu-item{
+    color: white;
+    flex: 1;
+}
