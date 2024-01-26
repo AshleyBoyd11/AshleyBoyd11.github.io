@@ -18,7 +18,7 @@ function App() {
   return (
     <>
       <Header menuItems={menuItems} />
-      <PageTitle title="What Do You Know About Indie GameDev?" />
+      <PageTitle title="What Do You Know About Indie Game Dev?" />
     </>
   );
 }
